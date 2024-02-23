@@ -1,0 +1,18 @@
+/* * Helpers */
+.wrapper {
+  padding-right: 15px;
+  padding-left: 15px;
+  max-width: 1230px;
+  margin: 0 auto;
+  width: 100%;
+}
+
+.link {
+  transition: var(--t-normal);
+  color: var(--c-black);
+
+  &:hover {
+  color: var(--c-primary);
+  }
+}
+

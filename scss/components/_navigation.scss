@@ -1,0 +1,12 @@
+/* * Navigation */
+.navigation {
+  &-list {
+    align-items: center;
+  display: flex;
+  }
+
+  &-link {
+    padding: 10px;
+  display: flex;
+  }
+}
